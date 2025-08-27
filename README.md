@@ -24,7 +24,7 @@ Bu loyiha test API bilan ishlash va PHP orqali HTTP-kommunikatsiya ko‘nikmalar
 
 1. **API dagi muammolar**
     - Menga berilgan API da faqat data1 qaytmoqda uri qaytmayabdi
-    - API to'g'ri ishlasa kod ham o'z vazifasini to'g'ri bajaradi
+    - API to'g'ri ishlasa kod ham o'z vazifasini ishlaydi
 2. **Yakuniy so'rovda javob xato kelib qolishi**
     - Yakuniy so'rovni test qila olmadim, sababini yuqorida aytib o'tdim
 
